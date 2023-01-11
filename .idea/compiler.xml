@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper1.Topics-Boolean_and_logical_operations-Invitations_and_gifts.main" target="11" />
+      <module name="Zookeeper1.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Zookeeper1.Topics-Characters-Digits_or_not.main" target="11" />
+      <module name="Zookeeper1.Topics-Characters-Encoding_table.main" target="11" />
+      <module name="Zookeeper1.Topics-Characters-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-If_expression-Check_a_number_is_positive.main" target="11" />
+      <module name="Zookeeper1.Topics-If_expression-Find_the_output.main" target="11" />
+      <module name="Zookeeper1.Topics-If_expression-Leap_year.main" target="11" />
+      <module name="Zookeeper1.Topics-If_expression-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Zookeeper1.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.main" target="11" />
+      <module name="Zookeeper1.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Absolute_value.main" target="11" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Arguments.main" target="11" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Invoking_functions.main" target="11" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Subtraction_function.main" target="11" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Overview_of_the_basic_program-Application.main" target="11" />
+      <module name="Zookeeper1.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
+      <module name="Zookeeper1.Topics-Overview_of_the_basic_program-Name_of_an_entry_point.main" target="11" />
+      <module name="Zookeeper1.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Zookeeper1.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Reading_data_with_a_readln-Check_the_input.main" target="11" />
+      <module name="Zookeeper1.Topics-Reading_data_with_a_readln-Reversed_output.main" target="11" />
+      <module name="Zookeeper1.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Reading_data_with_a_readln-toDouble__.main" target="11" />
+      <module name="Zookeeper1.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Zookeeper1.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="Zookeeper1.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Zookeeper1.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Zookeeper1.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-How_many_times_it_repeats.main" target="11" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Increment_in_loop.main" target="11" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Repeat_by_value.main" target="11" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Standard_output-Amount_on_the_account.main" target="11" />
+      <module name="Zookeeper1.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Zookeeper1.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
+      <module name="Zookeeper1.Topics-String_basics-JSON.main" target="11" />
+      <module name="Zookeeper1.Topics-String_basics-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Zookeeper1.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Zookeeper1.Topics-String_templates-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-String_templates-What_are_string_templates.main" target="11" />
+      <module name="Zookeeper1.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
+      <module name="Zookeeper1.Topics-The_classification_of_basic_types-Sizes_of_types.main" target="11" />
+      <module name="Zookeeper1.Topics-The_classification_of_basic_types-The_size_of_Long.main" target="11" />
+      <module name="Zookeeper1.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Type_conversion-Program_result.main" target="11" />
+      <module name="Zookeeper1.Topics-Type_conversion-Sum_of_Longs.main" target="11" />
+      <module name="Zookeeper1.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Type_conversion-Where_is_the_type_overflow_possible.main" target="11" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
+      <module name="Zookeeper1.Topics-While_loops-Bank_interest_calculation.main" target="11" />
+      <module name="Zookeeper1.Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Zookeeper1.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
+      <module name="Zookeeper1.Topics-While_loops-Theory.main" target="11" />
+      <module name="Zookeeper1.Topics-While_loops-What_does_the_code_print.main" target="11" />
+      <module name="Zookeeper1.util.main" target="11" />
+      <module name="Zookeeper1.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper1.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper1.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper1.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper1.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
